@@ -1,2 +1,3 @@
 # Pesquisa-Mensal-de-Servico--2020
 Análise da PMS - Pesquisa Mensal de Serviço - IBGE
+Realizei análise de série temporal da Pesquisa Mensal de Serviço do IBGE, aplicando técnicas de modelagem de séries temporais. Alem disso, fiz a análise exploratória dos dados, identifica tendências e sazonalidade, e aplica técnicas de diferenciação e transformação para tornar os dados estacionários. Estimei modelos de séries temporais, incluindo modelos de suavização exponencial, onde selecionei o melhor modelo com base nos critérios de informação. Realizei diagnóstico e validação do modelo, e produzi gráficos para visualizar os resultados.
